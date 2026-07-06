@@ -25,7 +25,7 @@ The goal of this project is to practice:
 | File | Description |
 |---|---|
 | `Fictional HospitalDB Creation.sql` | Full `CREATE TABLE` statements for all 13 tables, including primary keys, foreign keys, and constraints |
-| `FictionalHopspitalDB Data.sql` | Fictional `INSERT` statements populating every table with sample data |
+| `FictionalHospitalDB Data.sql` | Fictional `INSERT` statements populating every table with sample data |
 | `fictional_hospital.png` | Entity-Relationship (ER) diagram of the full schema |
 | `SQL Practice Problems.sql` | A set of SQL problems with solutions, based on this schema |
 
